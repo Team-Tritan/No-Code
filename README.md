@@ -8,7 +8,7 @@ Start by writing no code
 
 ``` 
 
-‏‏‎ ‎
+‏‏‎ ‎.
 
 ```
 
@@ -16,7 +16,7 @@ This is just an example application, but use your imagination to allow it to do 
 
 ```
 
-‏‏‎ ‎
+‏‏‎ ‎.
 
    ‎
 ```
